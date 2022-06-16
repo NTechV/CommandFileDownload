@@ -1,4 +1,6 @@
 # CommandFileDownload
+
 A command line file downloader
-Usage: CommandFileDownload <<url>> <<dest>>
+
+Usage: CommandFileDownload &lturl&gt dest
  
