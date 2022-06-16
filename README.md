@@ -2,5 +2,5 @@
 
 A command line file downloader
 
-Usage: CommandFileDownload &lturl&gt dest
+Usage: CommandFileDownload url dest
  
